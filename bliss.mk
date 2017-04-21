@@ -34,5 +34,4 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=armani \
-    ro.product.model=armani
+    PRODUCT_NAME=armani
